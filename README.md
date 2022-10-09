@@ -1,5 +1,9 @@
 # flask-heroku-api
 
+Video Tutorial
+
+https://youtu.be/dBXAOswc66o
+
 Set it up!
  
 `virtualenv venv && . venv/bin/activate`
